@@ -10,7 +10,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,vscode,github,figma,python" />
-<!--     <img src="https://skillicons.dev/icons?i=nodejs,python,express,firebase,mongodb,c,java,nextjs,mysql,flask,webstorm," /><br> -->
+    <img src="https://skillicons.dev/icons?i=python" /><br>
+    <!-- <img src="https://skillicons.dev/icons?i=nodejs,python,express,firebase,mongodb,c,java,nextjs,mysql,flask,webstorm," /><br> -->
 </div>
 
 <br/>
